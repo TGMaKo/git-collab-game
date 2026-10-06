@@ -1,5 +1,5 @@
 # Moduł logika
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Odpowiedzialny: erjurc
+Stan: GOTOWY
+Opis zmiany: Dodano walidacje danych wyjściowych
